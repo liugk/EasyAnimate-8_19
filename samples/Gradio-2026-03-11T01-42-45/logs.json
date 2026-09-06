@@ -1,0 +1,384 @@
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "PNDM",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "55"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DPM++",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "52"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DPM++",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "50"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DPM++",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "4"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler A",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "4"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler A",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "44"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler A",
+    "num_inference_steps": 54,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "47"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "48"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "78"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "88"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 10.8,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "77"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 10.8,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "888"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 10.8,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "8887"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "88877"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "1"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 79,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "2"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 79,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "3"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "5"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "DDIM",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "5"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "DDIM",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "66"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "67"
+}
+
+{
+    "prompt": "medical images",
+    "n_prompt": "The image is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 62,
+    "guidance_scale": 7.9,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "69"
+}
+

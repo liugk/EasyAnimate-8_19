@@ -1,0 +1,1072 @@
+[
+    {
+        "file_path": "datasets/Minimalism/train/01.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/02.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/03.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/04.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/05.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left1.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left2.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left3.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left4.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left5.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left6.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left7.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left11.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/left13.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/001_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/002_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },    
+    {
+        "file_path": "datasets/Minimalism/train/003_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/003_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/004_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },  
+    {
+        "file_path": "datasets/Minimalism/train/004_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/004_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/005_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/005_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/005_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/006_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/006_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/006_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/007_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/007_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/007_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/008_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/008_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/008_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/009_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/009_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/009_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/010_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/010_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/011_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/011_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/012_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/012_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/013_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/013_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/014_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/014_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/015_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/015_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/016_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/016_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/017_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/017_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/018_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/018_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/019_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/019_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }, 
+    {
+        "file_path": "datasets/Minimalism/train/020_L_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_L_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_L_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_L_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_L_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_R_0001.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_R_0002.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_R_0003.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_R_0004.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    },
+    {
+        "file_path": "datasets/Minimalism/train/020_R_0005.bmp",
+        "text": "hand, dorsal, vein, texture",
+        "type": "image"
+    }
+]

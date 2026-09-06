@@ -1,0 +1,192 @@
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A young man with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is confident, composed, and charismatic\u2014possessing a quiet strength that draws others in. With sharp intelligence, unwavering integrity, and a thoughtful demeanor, he navigates challenges with resilience and grace. His sense of humor is dry yet warm, and his actions consistently reflect kindness, discipline, and purpose.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is a quintessential Chinese man\u2014calm, reserved, humble, and courteous, with an innate resilience and diligence. He values family and responsibility, treats others with sincerity, and acts with a keen sense of propriety and harmony. Deeply rooted in traditional culture, he remains open and adaptable to the modern world. He does not easily give up in the face of pressure, and even in success, he remains humble\u2014embodying the balance and composure celebrated in Eastern wisdom.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "hand",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "The near-infrared image reveals the intricate vascular network beneath the skin of the hand\u2014delicate yet distinct veins branching like river deltas across the dorsum. Rendered in high contrast against the diffuse soft tissue, the venous patterns appear as dark, meandering lines, their depth and connectivity clearly captured by the infrared illumination. The image highlights both the anatomical complexity and the subtle individuality of the vascular architecture, with minimal surface detail visible, emphasizing the subcutaneous structures that are otherwise invisible to the naked eye.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is a quintessential Chinese man\u2014calm, reserved, humble, and courteous, with an innate resilience and diligence. He values family and responsibility, treats others with sincerity, and acts with a keen sense of propriety and harmony. Deeply rooted in traditional culture, he remains open and adaptable to the modern world. He does not easily give up in the face of pressure, and even in success, he remains humble\u2014embodying the balance and composure celebrated in Eastern wisdom.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is a quintessential Chinese man\u2014calm, reserved, humble, and courteous, with an innate resilience and diligence. He values family and responsibility, treats others with sincerity, and acts with a keen sense of propriety and harmony. Deeply rooted in traditional culture, he remains open and adaptable to the modern world. He does not easily give up in the face of pressure, and even in success, he remains humble\u2014embodying the balance and composure celebrated in Eastern wisdom.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is a quintessential Chinese man\u2014calm, reserved, humble, and courteous, with an innate resilience and diligence. He values family and responsibility, treats others with sincerity, and acts with a keen sense of propriety and harmony. Deeply rooted in traditional culture, he remains open and adaptable to the modern world. He does not easily give up in the face of pressure, and even in success, he remains humble\u2014embodying the balance and composure celebrated in Eastern wisdom.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "He is a quintessential Chinese man\u2014calm, reserved, humble, and courteous, with an innate resilience and diligence. He values family and responsibility, treats others with sincerity, and acts with a keen sense of propriety and harmony. Deeply rooted in traditional culture, he remains open and adaptable to the modern world. He does not easily give up in the face of pressure, and even in success, he remains humble\u2014embodying the balance and composure celebrated in Eastern wisdom.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "DDIM",
+    "num_inference_steps": 78,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+

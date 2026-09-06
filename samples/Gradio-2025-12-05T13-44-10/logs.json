@@ -1,0 +1,228 @@
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "4"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "4000"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "40008"
+}
+
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality,",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "40056"
+}
+
+{
+    "prompt": "A young woman ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "406"
+}
+
+{
+    "prompt": "A woman ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "406"
+}
+
+{
+    "prompt": "A girl",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "406"
+}
+
+{
+    "prompt": "a  woman ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "406"
+}
+
+{
+    "prompt": "a  man ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "406"
+}
+
+{
+    "prompt": "a  man ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "67"
+}
+
+{
+    "prompt": "a  man \uff0cno hair",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "67"
+}
+
+{
+    "prompt": "",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "6700"
+}
+
+{
+    "prompt": "The dog is looking at camera and smiling. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "6700"
+}
+
+{
+    "prompt": "The dog is looking at camera and smiling. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "6734"
+}
+
+{
+    "prompt": "The dog ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "6734"
+}
+
+{
+    "prompt": "The dog ",
+    "n_prompt": "The video is not of a high quality, it has a low resolution",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "6756"
+}
+

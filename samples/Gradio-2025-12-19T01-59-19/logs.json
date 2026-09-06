@@ -1,0 +1,24 @@
+{
+    "prompt": "A young woman with beautiful and clear eyes and blonde hair standing and white dress in a forest wearing a crown. She seems to be lost in thought, and the camera focuses on her face. The video is of high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+
+{
+    "prompt": "A high-angle, top-down view of several large, industrial bulk bags (FIBC bags) piled together in a dimly lit warehouse or storage area. The image is rendered in monochrome (black and white), emphasizing texture and shadow. The bags are made of heavy-duty woven polypropylene fabric, showing deep wrinkles, folds, and creases from being filled and handled. Thick, sturdy webbing straps are visible, crisscrossing over the tops of the bags, some tied or looped loosely. The lighting is dramatic and directional, creating strong highlights on the raised surfaces of the fabric and deep, dark shadows in the crevices between the bags. The overall mood is gritty, industrial, and slightly desaturated, with a shallow depth of field that keeps the central bags in sharp focus while the periphery fades into darkness. The composition is dense and cluttered, suggesting a working environment.",
+    "n_prompt": "The video is not of a high quality, it has a low resolution, and the audio quality is not clear. Strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.",
+    "sampler": "Euler",
+    "num_inference_steps": 30,
+    "guidance_scale": 7,
+    "width": 672,
+    "height": 384,
+    "video_length": 144,
+    "seed_textbox": "43"
+}
+

@@ -1,0 +1,22 @@
+NCCL_P2P_DISABLE=1 NCCL_IB_DISABLE=1 CUDA_VISIBLE_DEVICES=0 python scripts/train_lora.py \
+  --pretrained_model_name_or_path models/Diffusion_Transformer/PixArt-XL-2-512x512 \
+  --train_data_dir ./ \
+  --train_data_meta datasets/Minimalism/metadata_add_width_height.json \
+  --config_path config/easyanimate_image_normal_v1.yaml \
+  --image_sample_size 512 \
+  --train_batch_size 1 \
+  --gradient_accumulation_steps 1 \
+  --dataloader_num_workers 4 \
+  --num_train_epochs 100 \
+  --checkpointing_steps 500 \
+  --learning_rate 1e-4 \
+  --seed 42 \
+  --output_dir output_dir \
+  --enable_xformers_memory_efficient_attention \
+  --gradient_checkpointing \
+  --mixed_precision bf16 \
+  --adam_weight_decay 3e-2 \
+  --adam_epsilon 1e-10 \
+  --max_grad_norm 1 \
+  --vae_mini_batch 1 \
+  --enable_bucket
